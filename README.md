@@ -1,0 +1,2 @@
+# harmony-hack-invest
+A blockchain based project funding application. Basic Idea: Companies, organisations or individual persons can register for funding and publish a project road map with an estimated return of investment at a given point. Investors can investigate all projects and invest in projects that have strong fundamentals and a well designed project. In the best case the funding is successfull and the organisation paysout a bonus. In worst case, the project is not funded and the investor loses his/her investment.
